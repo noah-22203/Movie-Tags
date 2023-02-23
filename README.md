@@ -16,3 +16,6 @@ using linear search for this function still returns the users answer almost inst
 worth my time to write a separate search function. each time the user enters a valid search entry there is a runtime
 of O(n). this is the final function that is called in main, and it continues running until the user enters "EXIT", 
 which terminates the entire program.
+
+In total, my program takes about 2-3 minutes to sort and read the file before it brings up the user interface. once
+this happens, the rest of the code returns answers just about instantly.
